@@ -4,12 +4,12 @@
 
 1. Implement user permission settings for collaborative editing.
 2. Rebuild the website using Next.js integrated with OAuth for enhanced security.
+3. Consider implementing a web-based editor for increased accessibility.
 
 ## Upcoming Milestones
 
-3. Develop a keyword map generator functionality.
-4. Enable export/import capability for mindmaps in JSON format.
-5. Consider implementing a web-based editor for increased accessibility.
+4. Develop a keyword map generator functionality.
+5. Enable export/import capability for mindmaps in JSON format.
 
 ## Future Ideas
 
