@@ -3,7 +3,6 @@
 ## In Progress
 
 1. Implement user permission settings for collaborative editing.
-2. Rebuild the website using Next.js integrated with OAuth for enhanced security.
 3. Consider implementing a web-based editor for increased accessibility.
 
 ## Upcoming Milestones
@@ -21,3 +20,6 @@ Once the web-based editor is launched, here are some potential enhancements:
 4. **Real-time Collaboration:** Investigate live collaboration features, enabling multiple users to work simultaneously. (Further exploration required)
 
 This roadmap outlines our ongoing and upcoming developments for SpiralMind Bot. Join us as we work towards enhancing mind-mapping experiences within Discord servers!
+
+## Completed Milestones
+- Rebuild the website using React.js integrated with OAuth for enhanced security.
