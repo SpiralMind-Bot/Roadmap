@@ -22,4 +22,4 @@ Once the web-based editor is launched, here are some potential enhancements:
 This roadmap outlines our ongoing and upcoming developments for SpiralMind Bot. Join us as we work towards enhancing mind-mapping experiences within Discord servers!
 
 ## Completed Milestones
-- Rebuild the website using React.js integrated with OAuth for enhanced security.
+- Rebuild the website using React.js integrated with OAuth2 for enhanced security.
